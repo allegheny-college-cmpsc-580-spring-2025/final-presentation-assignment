@@ -87,7 +87,7 @@ not interesting to watch. So, instead, we will live on the bleeding edge for `2`
 
 Your demo should:
 
-- [ ] demonstrate most major aspects of the exxperiment in at least one use case
+- [ ] demonstrate most major aspects of the experiment in at least one use case
 - [ ] be an interactive demo in which the presenter uses the software, while they
 - [ ] provide narration that explains the significance of the steps taken and outputs generated, and
 - [ ] describes why your solution is _novel_ to the problem area being explored
